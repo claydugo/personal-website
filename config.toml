@@ -1,0 +1,74 @@
+baseURL = "https://claydugo.com"
+title = "Clay Dugo"
+theme = "hugo-coder"
+languageCode = "en-us"
+staticDir = "static"
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-146318863-1"
+
+[params]
+	author = "Clay Dugo"
+	# info = ""
+	description = "Clay Dugo's personal website"
+	keywords = "blog, developer, personal"
+	favicon_32 = "/img/favicon-32x32.png"
+	favicon_16 = "/img/favicon-16x16.png"
+	# favatarurl = "/img/IMG_2311.png"
+	footercontent = "🕶"
+
+	hideCredits = true
+    hideCopyright = true
+
+    commit = "https://github.com/claydugo/personal-website/tree/"
+
+    custom_css = ["css/cssmod.css"]
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/claydugo/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 2
+    url = "https://instagram.com/claydugo/"
+[[params.social]]
+    name = "Untappd"
+    icon = "fab fa-untappd"
+    weight = 3
+    url = "https://untappd.com/user/claydugo/"
+[[params.social]]
+    name = "IMDb"
+    icon = "fab fa-imdb"
+    weight = 4
+    url = "https://www.imdb.com/user/ur84423387"
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase"
+    weight = 5
+    url = "https://keybase.io/dugo"
+[[params.social]]
+    name = "Email"
+    icon = "far fa-envelope"
+    weight = 6
+    url = "mailto:claydugo@gmail.com"
+
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+
+# Google Analytics
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        respectDoNotTrack = true
+        useSessionStorage = true

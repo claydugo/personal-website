@@ -1,0 +1,59 @@
+.centered .about ul li a {
+	color: #328fa8;
+}
+
+.centered .about ul li a:hover {
+	color: #3aabc9;
+}
+
+/* this was the fix for being unable to just !important h1 aswell as being unable to edit the themes css file directly */
+.centered .about h1, h2 {
+	color: #328fa8;
+}
+
+.centered .error h1, h2 {
+	color: #328fa8;
+}
+
+.centered .error {
+	color: #328fa8;
+}
+
+
+.centered .error a{
+	color: #328fa8;
+	text-decoration: underline; /* black text for this link was very underline, opting for underline to differentiate. */
+}
+
+.footer {
+	color: #328fa8;
+}
+
+.footer a {
+	color: #328fa8;
+	text-decoration: underline; /* same deal as 404 page hyperlinks */
+}
+
+.navigation a {
+	color: #328fa8;
+}
+
+.navigation a:hover {
+	color: #3aabc9;
+}
+
+/* Mobile modifications */
+
+.navigation .menu-button {
+	color: #328fa8;
+}
+
+/* fix ugly highlight that doesn't even make sense */
+.navigation .menu-button a {
+	color: #328fa8;
+}
+
+.fa-bars a {
+	color: #328fa8;
+}
+
