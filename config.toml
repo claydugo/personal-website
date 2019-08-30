@@ -10,11 +10,11 @@ googleAnalytics = "UA-146318863-1"
 [params]
 	author = "Clay Dugo"
 	# info = ""
-	description = "Clay Dugo's personal website"
-	keywords = "blog, developer, personal"
-	favicon_32 = "/img/favicon-32x32.png"
-	favicon_16 = "/img/favicon-16x16.png"
-	# favatarurl = "/img/IMG_2311.png"
+	description = "Clay Dugo's blog"
+	keywords = "blog, developer, personal, portfolio"
+	favicon_32 = "/img/myhead.ico"
+	favicon_16 = "/img/myhead.ico"
+	avatarurl = "/img/profilepic.png"
 	footercontent = "🕶"
 
 	hideCredits = true
@@ -60,7 +60,7 @@ googleAnalytics = "UA-146318863-1"
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url  = "/blog/"
 [[menu.main]]
     name = "About"
     weight = 2
