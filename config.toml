@@ -10,18 +10,15 @@ googleAnalytics = "UA-146318863-1"
 [params]
 	author = "Clay Dugo"
 	# info = ""
-	description = "Clay Dugo's blog"
-	keywords = "blog, developer, personal, portfolio"
+	description = "Clay Dugo's blog and portfolio"
+	keywords = "blog, developer, personal, portfolio, python"
 	favicon_32 = "/img/favicon-16x16.png"
 	favicon_16 = "/img/favicon-32x32.png"
 	avatarurl = "/img/profilepic.png"
-	footercontent = "🕶"
-
+	footercontent = "<marquee loop='1' scrollamount='23' scrolldelay='75'>🚙💨</marquee>"
 	hideCredits = true
     hideCopyright = true
-
-    commit = "https://github.com/claydugo/personal-website/tree/"
-
+    commit = "https://github.com/claydugo/claydugo.com/tree/" 
     custom_css = ["css/stylesheet.css"]
 
 [[params.social]]
@@ -53,7 +50,7 @@ googleAnalytics = "UA-146318863-1"
     name = "Email"
     icon = "far fa-envelope"
     weight = 6
-    url = "mailto:claydugo@gmail.com"
+    url = "mailto:clay@claydugo.com"
 
 
 # Menu links
