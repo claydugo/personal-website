@@ -1,3 +1,7 @@
+.body {
+	font-family: Roboto, Geneva, Arial, Merriweather, Helvetica, sans-serif;
+}
+
 .centered .about ul li a {
 	color: #328fa8;
 }
@@ -22,7 +26,7 @@
 
 .centered .error a{
 	color: #328fa8;
-	text-decoration: underline; /* black text for this link was very underline, opting for underline to differentiate. */
+	text-decoration: underline; /* black text for this link was very ugly, opting for underline to differentiate. */
 }
 
 .footer {
@@ -48,7 +52,7 @@
 	color: #328fa8;
 }
 
-/* fix ugly highlight that doesn't even make sense */
+/* fix ugly highlight */
 .navigation .menu-button a {
 	color: #328fa8;
 }
