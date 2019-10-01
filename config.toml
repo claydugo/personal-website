@@ -15,7 +15,7 @@ googleAnalytics = "UA-146318863-1"
 	favicon_32 = "/img/favicon-16x16.png"
 	favicon_16 = "/img/favicon-32x32.png"
 	avatarurl = "/img/profilepic.png"
-	footercontent = "<marquee loop='1' scrollamount='23' scrolldelay='75'>🚙💨</marquee>"
+	# footercontent = ""
 	hideCredits = true
     hideCopyright = true
     commit = "https://github.com/claydugo/claydugo.com/tree/" 
@@ -58,10 +58,11 @@ googleAnalytics = "UA-146318863-1"
     name = "Blog"
     weight = 1
     url  = "/blog/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+
+# Blog Params
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    page = "/:slug/"
 
 # Google Analytics
 [privacy]
