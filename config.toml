@@ -50,7 +50,7 @@ googleAnalytics = "UA-146318863-1"
     name = "Email"
     icon = "far fa-envelope"
     weight = 6
-    url = "mailto:website@claydugo.com"
+    url = "mailto:website@m.claydugo.com"
 
 
 # Menu links
