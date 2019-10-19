@@ -1,5 +1,5 @@
 .body {
-	font-family: Roboto, Geneva, Arial, Merriweather, Helvetica, sans-serif;
+	font-family: Roboto, Geneva, Arial, Merriweather, Helvetica, sans-serif !important;
 }
 
 .centered .about ul li a {
@@ -22,7 +22,6 @@
 .centered .error {
 	color: #328fa8;
 }
-
 
 .centered .error a{
 	color: #328fa8;
@@ -60,4 +59,9 @@
 .fa-bars a {
 	color: #328fa8;
 }
-
+.beermap{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}

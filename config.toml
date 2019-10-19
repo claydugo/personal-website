@@ -58,6 +58,10 @@ googleAnalytics = "UA-146318863-1"
     name = "Blog"
     weight = 1
     url  = "/blog/"
+[[menu.main]]
+    name = "Beer Map"
+    weight = 2
+    url = "/beermap"
 
 # Blog Params
 [permalinks]

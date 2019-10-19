@@ -8,11 +8,9 @@ description = "Places I have had a beer since 10/17/2019"
 ## Beer Map 
 
 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zeD44sJrVDIPhVCdu9BgK3clnkvmFXRV" width="640" height="480"></iframe>
-
-
-A map of places I have checked in a beer on untappd.
+<div class=beermap>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zeD44sJrVDIPhVCdu9BgK3clnkvmFXRV" width="100%" height="540" left="0" top="0" position="absoulute" frameborder="0" style="border:0" allowfullscreen ></iframe>
+</div>
 
 This map was created on 10/17/2019. I try to update it every so often or after trips to new places. 
 A more up to date list can be found on my [untappd](https://untappd.com/user/claydugo).
