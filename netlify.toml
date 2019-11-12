@@ -24,3 +24,9 @@ HUGO_ENABLEGITINFO = "true"
     to = "https://claydugo.com/"
     status = 301
     force = true
+
+[[redirects]]
+    from = "https://m.claydugo.com/*"
+    to = "https://claydugo.com/"
+    status = 301
+    force = true
