@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dugo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://claydugo.com
+  * I am dugo (https://keybase.io/dugo) on keybase.
+  * I have a public key ASC_g-pQJiPtd3L8uM1orJ-pAdEKhK7Lc4k4saDMhKiU9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bf83ea502623ed7772fcb8cd68ac9fa901d10a84aecb738938b1a0cc84a894f70a",
+      "host": "keybase.io",
+      "kid": "0120bf83ea502623ed7772fcb8cd68ac9fa901d10a84aecb738938b1a0cc84a894f70a",
+      "uid": "dba30627ac1c981d4bba4d6236dcfb19",
+      "username": "dugo"
+    },
+    "merkle_root": {
+      "ctime": 1566920398,
+      "hash": "f6675f6e44ae8c215bb11813aed593009015160d905f536f93cdf333afed83f0484e7c2efb0789da8329b68933029cf4014e4e8d12545fb3dfe9582086d03dbd",
+      "hash_meta": "b5ab186d17db155b195118598b414b63cc8d58bb636c2e24bf7402f89ad151eb",
+      "seqno": 6110580
+    },
+    "service": {
+      "entropy": "Lhapr7hoTs9q/2mjHx3hLfcP",
+      "hostname": "claydugo.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566920407,
+  "expire_in": 504576000,
+  "prev": "e8ff615def91c819a6efedbd95d9978f3b8588061ce236e8698c19a6cda19754",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgv4PqUCYj7Xdy/LjNaKyfqQHRCoSuy3OJOLGgzISolPcKp3BheWxvYWTESpcCB8Qg6P9hXe+RyBmm7+29ldmXjzuFiAYc4jboaYwZps2hl1TEIOwyD4iLBAOM8S6SMYAv0G8neOVtf91Xg+IJnMw9A9VdAgHCo3NpZ8RA8TDsjeNP+71JFHDFzz8KxGFxc3wlVSFtE88VWJGzWZeouWIH05BTkjfHdcKRTBz5c/pSurJJ5+zPVTV/08T2AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDSfl7hIFKGSSdrn9gt0dPjz3m1Im+ZXuuZZhFSlegy7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dugo
+
+==================================================================

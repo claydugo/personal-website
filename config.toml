@@ -17,9 +17,9 @@ googleAnalytics = "UA-146318863-1"
 	avatarurl = "/img/profilepic.png"
 	# footercontent = ""
 	hideCredits = true
-    hideCopyright = true
-    commit = "https://github.com/claydugo/claydugo.com/tree/" 
-    custom_css = ["css/stylesheet.css"]
+  hideCopyright = true
+  commit = "https://github.com/claydugo/claydugo.com/tree/" 
+  custom_css = ["css/stylesheet.css"]
 
 [[params.social]]
     name = "Github"
@@ -47,9 +47,14 @@ googleAnalytics = "UA-146318863-1"
     weight = 5
     url = "https://keybase.io/dugo"
 [[params.social]]
+    name = "Goodreads"
+    icon = "far fa-goodreads"
+    weight = 6
+    url = "https://goodreads.com/claydugo"
+[[params.social]]
     name = "Email"
     icon = "far fa-envelope"
-    weight = 6
+    weight = 7
     url = "mailto:claydugo+psite@gmail.com"
 
 
