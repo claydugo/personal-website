@@ -48,15 +48,9 @@ googleAnalytics = "UA-146318863-1"
     url = "https://keybase.io/dugo"
 [[params.social]]
     name = "Goodreads"
-    icon = "far fa-goodreads"
+    icon = "fab fa-goodreads"
     weight = 6
     url = "https://goodreads.com/claydugo"
-[[params.social]]
-    name = "Email"
-    icon = "far fa-envelope"
-    weight = 7
-    url = "mailto:claydugo+psite@gmail.com"
-
 
 # Menu links
 [[menu.main]]
