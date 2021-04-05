@@ -5,7 +5,9 @@ languageCode = "en-us"
 staticDir = "static"
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = "G-S6LK5FZPP4"
+# wasn't working with theme
+# googleAnalytics = "G-S6LK5FZPP4"
+googleAnalytics = "UA-146318863-1"
 
 [params]
 	author = "Clay Dugo"
