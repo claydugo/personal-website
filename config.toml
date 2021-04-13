@@ -12,11 +12,11 @@ googleAnalytics = "UA-146318863-1"
 [params]
 	author = "Clay Dugo"
 	# info = ""
-	description = "Clay Dugo's blog and portfolio. Website is fully open source, click on the commit hash found in the footer to be taken to the github page."
+	description = "Clay Dugo's blog and portfolio. Website is open source, click on the commit hash found in the footer to be taken to its github page."
 	keywords = "blog, developer, personal, portfolio, python, open source"
 	favicon_32 = "/img/favicon-16x16.png"
 	favicon_16 = "/img/favicon-32x32.png"
-	avatarurl = "/img/profilepic.png"
+	avatarurl = "/img/pp.png"
 	# footercontent = ""
 	hideCredits = true
   hideCopyright = true
