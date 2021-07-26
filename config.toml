@@ -17,7 +17,7 @@ googleAnalytics = "UA-146318863-1"
 	favicon_32 = "/img/favicon-16x16.png"
 	favicon_16 = "/img/favicon-32x32.png"
 	avatarurl = "/img/pp.png"
-	# footercontent = ""
+	# footercontent = "<a href=\"https://hmmst.claydugo.com\">Uptime</a>"
 	hideCredits = true
   hideCopyright = true
   commit = "https://github.com/claydugo/claydugo.com/tree/" 
