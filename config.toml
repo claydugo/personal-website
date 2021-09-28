@@ -29,10 +29,10 @@ googleAnalytics = "UA-146318863-1"
     weight = 1
     url = "https://github.com/claydugo/"
 [[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
     weight = 2
-    url = "https://instagram.com/claydugo/"
+    url = "https://www.linkedin.com/in/claydugo/"
 [[params.social]]
     name = "Untappd"
     icon = "fab fa-untappd"
