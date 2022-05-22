@@ -2,7 +2,7 @@
 draft = false
 date = 2019-10-17T08:44:54-04:00
 
-description = "Places I have had a beer since 3/30/2021"
+description = "Places I have had a beer since 12/25/2015"
 +++
 
 ## Beer Map 

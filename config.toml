@@ -29,25 +29,25 @@ googleAnalytics = "UA-146318863-1"
     weight = 1
     url = "https://github.com/claydugo/"
 [[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab"
+    weight = 2
+    url = "https://gitlab.com/claydugo"
+[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 2
+    weight = 3
     url = "https://www.linkedin.com/in/claydugo/"
 [[params.social]]
     name = "Untappd"
     icon = "fab fa-untappd"
-    weight = 3
+    weight = 4
     url = "https://untappd.com/user/claydugo/"
 [[params.social]]
     name = "IMDb"
     icon = "fab fa-imdb"
-    weight = 4
-    url = "https://www.imdb.com/user/ur84423387"
-[[params.social]]
-    name = "Keybase"
-    icon = "fab fa-keybase"
     weight = 5
-    url = "https://keybase.io/dugo"
+    url = "https://www.imdb.com/user/ur84423387"
 [[params.social]]
     name = "Goodreads"
     icon = "fab fa-goodreads"
